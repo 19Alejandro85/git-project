@@ -6,3 +6,13 @@ docs/ *.txt
 
 # folder /usr
 usr/
+
+bin/
+cmd/
+dev/
+etc/
+mingw64/
+no
+nosession
+Plugin
+-
